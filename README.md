@@ -3,9 +3,13 @@
 ## Como rodar a aplicação
 
 ### Localmente
-
+   ```zsh
+     docker-compose up -d
+    ```
 docker-compose up -d
 
 ### Diretamente do DockerHub
 
-docker run joaotavioos/fullcycle
+   ```zsh
+     docker run joaotavioos/fullcycle
+    ```
