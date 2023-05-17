@@ -6,7 +6,6 @@
    ```zsh
      docker-compose up -d
     ```
-docker-compose up -d
 
 ### Diretamente do DockerHub
 
